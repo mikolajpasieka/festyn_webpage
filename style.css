@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+body {
+    background-image: url('image.png'); /* ścieżka do pliku */
+    background-size: cover;           /* dopasowanie do ekranu */
+    background-position: center;      /* wyśrodkowanie */
+}
+
+
+
+
+
+.container {
+    display: flex;              /* aktywuje Flexbox */
+    padding: 50px;
+    align-items: center;
+}
+
+.tekst {
+    width: 50%;
+    font-size: 18px;
+    text-align: left;
+}
+
+.zdjecie {
+    width: 50%;
+    height: 50%;
+    text-align: right;
+}
+
+.zdjecie img {
+    width: 50%;
+    height: 50%;
+    text-align: right
+}
