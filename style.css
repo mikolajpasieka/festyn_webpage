@@ -25,20 +25,20 @@ body {
 }
 
 .tekst {
-    width: 50%;
+    width: 100%;
     font-size: 1.125rem;
     text-align: left;
     background-color: antiquewhite;
 }
 
 .zdjecie {
-    width: 50%;
+    width: 100%;
     text-align: right;
 }
 
 .zdjecie img {
-    width: 80%;
-    height: 80%;
+    width: 100%;
+    height: 100%;
     text-align: right;
 }
 
