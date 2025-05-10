@@ -90,4 +90,83 @@ p {
   .container {
     flex-direction: column;
   }
+
+  h1,h2 {
+    font-weight: bold;
+    text-align: center;
+    background-color: bisque;
+    border: 0.125rem solid black;
+
+}
+
+h3{
+    text-align: center;
+    font-weight: bold;
+}
+
+body {
+    background-image: url('./images/moro.jpg'); 
+    background-size: cover;           
+    background-position: center;      
+}
+
+
+.tekst {
+    width: 100%;
+    font-size: 1.125rem;
+    background-color: antiquewhite;
+}
+
+.zdjecie {
+    width: 100%;
+}
+
+.zdjecie img {
+    width: 80%;
+    height: 80%;
+}
+
+.paragraf {
+    background-color: bisque;
+    border: 0.125rem solid black;
+    margin: 0.625rem;
+}
+
+p {
+    text-align: center;
+    text-wrap: wrap
+}
+
+.p1 {
+    text-align: right;
+    font-size: 1.5625rem;
+    font-weight: bold;
+    font-style: italic;
+    text-wrap: wrap;
+    color: white;
+}
+
+.p2 {
+    text-align: center;
+    font-size: 1.5625rem;
+    font-weight: bold;
+    text-wrap: wrap;
+    padding: 1.25rem 0 0 0;
+}
+
+.p3 {
+    text-align: center;
+    font-size: 1.5625rem;
+    font-weight: bold;
+    text-wrap: wrap;
+    padding: 0 0 1.25rem 0 ;
+}
+
+.p4 {
+    text-align: left;
+    font-size: 1.5625rem;
+    font-weight: bold;
+    text-wrap: wrap;
+    color: white;
+}
 }
