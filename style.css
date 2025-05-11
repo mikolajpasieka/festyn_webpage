@@ -31,18 +31,21 @@ body {
     font-size: 1.125rem;
     text-align: left;
     background-color: rgb(88, 159, 106);
+    border-radius: 10px
 }
 
 .zdjecie {
     width: 50%;
     text-align: right;
     padding: 0 0 0 0.625rem;
+    border-radius: 10px
 }
 
 .zdjecie img {
     width: 80%;
     height: 80%;
     text-align: right;
+    border-radius: 10px
 }
 
 .paragraf {
