@@ -1,7 +1,7 @@
 h1,h2 {
     font-weight: bold;
     text-align: center;
-    background-color: bisque;
+    background-color: rgb(158, 147, 147);
     border: 0.125rem solid black;
 
 }
@@ -12,7 +12,7 @@ h3{
 }
 
 body {
-    background-image: url('./images/moro.jpg'); 
+    background-image: url('./images/tlo.jpg'); 
     background-size: cover;           
     background-position: center;      
 }
@@ -29,7 +29,7 @@ body {
     width: 50%;
     font-size: 1.125rem;
     text-align: left;
-    background-color: antiquewhite;
+    background-color: rgb(158, 147, 147);
 }
 
 .zdjecie {
@@ -45,7 +45,7 @@ body {
 }
 
 .paragraf {
-    background-color: bisque;
+    background-color: rgb(158, 147, 147);
     border: 0.125rem solid black;
     margin: 0.625rem;
 }
@@ -98,7 +98,7 @@ p {
   h1,h2 {
     font-weight: bold;
     text-align: center;
-    background-color: bisque;
+    background-color: rgb(158, 147, 147);
     border: 0.125rem solid black;
 
 }
@@ -134,7 +134,7 @@ body {
 }
 
 .paragraf {
-    background-color: bisque;
+    background-color: rgb(158, 147, 147);
     border: 0.125rem solid black;
     margin: 0.625rem;
 }
