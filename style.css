@@ -53,6 +53,7 @@ body {
     border: 0.125rem solid black;
     margin: 0.625rem;
     border-radius: 10px
+    padding: 1rem; 
     
 }
 
@@ -143,7 +144,7 @@ body {
     background-color: rgb(158, 147, 147);
     border: 0.125rem solid black;
     margin: 0.625rem;
-    padding: 20px; 
+    padding: 1rem; 
 }
 
 p {
