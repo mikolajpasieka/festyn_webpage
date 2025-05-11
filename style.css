@@ -29,7 +29,7 @@ body {
     width: 50%;
     font-size: 1.125rem;
     text-align: left;
-    background-color: rgb(158, 147, 147);
+    background-color: rgb(88, 159, 106);
 }
 
 .zdjecie {
@@ -45,7 +45,7 @@ body {
 }
 
 .paragraf {
-    background-color: rgb(158, 147, 147);
+    background-color: rgb(138, 177, 118);
     border: 0.125rem solid black;
     margin: 0.625rem;
 }
