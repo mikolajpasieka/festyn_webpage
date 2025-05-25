@@ -95,6 +95,10 @@ p {
     color: white;
 }
 
+img {
+    width: 20%;
+    height: 20%;
+}
 
 
 @media (max-width: 768px) {
