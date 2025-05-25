@@ -42,8 +42,8 @@ body {
 }
 
 .zdjecie img {
-    width: 80%;
-    height: 80%;
+    width: 800px;
+    height: 1500px;
     text-align: right;
     border-radius: 10px
 }
